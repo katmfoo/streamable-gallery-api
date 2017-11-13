@@ -1,7 +1,7 @@
 {
   "name": "streamable-gallery-api",
   "version": "1.0.0",
-  "description": "An API for a streamable-gallery to retrieve the correct list of clips",
+  "description": "A basic API for streamable-gallery to get the correct clip data",
   "main": "app.js",
   "dependencies": {
     "axios": "^0.17.1",
