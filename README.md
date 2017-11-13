@@ -12,5 +12,5 @@ To run, just run app.js through Node with `node app.js`.
 
 ### Built with
 
-* *Express* to accept the incoming request and send a response.
-* *Axios* to forward the request to the correct location and add the cookies.
+* **Express** to accept the incoming request and send a response.
+* **Axios** to forward the request to the correct location and add the cookies.
