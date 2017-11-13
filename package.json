@@ -1,0 +1,10 @@
+{
+  "name": "streamable-gallery-api",
+  "version": "1.0.0",
+  "description": "An API for a streamable-gallery to retrieve the correct list of clips",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2"
+  }
+}
