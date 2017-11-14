@@ -1,13 +1,15 @@
 const express = require('express');
+const cors = require('cors');
 const axios = require('axios');
-
-const app = express();
 
 const url = 'https://ajax.streamable.com/videos'; // base url
 
 const header = {
   cookie: 'user_name=patrickricheal@gmail.com; user_code=eyJhbGciOiJIUzI1NiIsImV4cCI6MTU0MjA3MjM4MCwiaWF0IjoxNTEwNTM2MzgwfQ.eyJ1c2VyX25hbWUiOiJwYXRyaWNrcmljaGVhbEBnbWFpbC5jb20ifQ.08fu01EzozfLl1E9ENk80Bi-XS_iabQ72tcRxZ_i0vk;'
 };
+
+const app = express();
+app.use(cors());
 
 /*
  * Possible query parameters
