@@ -4,7 +4,7 @@ This is a basic API used by [streamable-gallery](https://github.com/pricheal/str
 
 ### Live demo
 
-This API is being run live right now at http://ec2-34-203-215-132.compute-1.amazonaws.com/ for use by the [streamable-gallery](https://github.com/pricheal/streamable-gallery) application hosted at http://patricheal.com/clips/
+This API is being run live right now at http://ec2-34-203-215-132.compute-1.amazonaws.com/ for use by the [streamable-gallery](https://github.com/pricheal/streamable-gallery) application hosted at http://patricheal.com/clips/.
 
 ### How to use
 
